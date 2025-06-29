@@ -1,11 +1,10 @@
 <div align="center">
   
 # 👋 Hey there! Adithya here
-## 🚀 About Me
+Just an enthusiast of **computers, tech, and how things work under the hood**.
 
 </div>
 
-I'm someone who’s always been enthusiastic about **Computers, tech, and how things work under the hood**.
 
 🔐 I just completed a **Beginner Cybersecurity Course**, where I explored :
 - **Footprinting & Recon** (WHOIS, subdomain enum, metadata)
@@ -27,10 +26,6 @@ I'm currently working on:
 
 ## 📫 Reach me out at :
 
-<a href="http://linkedin.com/in/adithyahejamady" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:adithyahejamady@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+- Linkedin -> www.linkedin.com/in/adithyahejamady
+- Email -> adithyahejamady@gmail.com
 
