@@ -1,6 +1,8 @@
 <div align="center">
+  
 # 👋 Hey there! Adithya here
 ## 🚀 About Me
+
 </div>
 
 I'm someone who’s always been enthusiastic about **Computers, tech, and how things work under the hood**.
